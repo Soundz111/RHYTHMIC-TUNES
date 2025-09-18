@@ -1,0 +1,81 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "uyirey",
+      "singer": "Nakul Abhyankar,Ramya Bhatt Abhyankar ",
+      "genre": "Romantic",
+      "imgUrl": "https://s.saregama.tech/image/c/fw_485/0/15/54/uyirey_ott_1440_1730269069.jpg",
+      "songUrl": "Songs/uyirey.mp3"
+    },
+    {
+      "id": "2",
+      "title": "pirai thedum",
+      "singer": "Saindhavi, G.V.Prakash Kumar",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/487/Mayakkam-Enna-Tamil-2011-500x500.jpg",
+      "songUrl": "Songs/pirai thedum.mp3"
+    },
+    {
+      "id": "3",
+      "title": "sidu sidu",
+      "singer": "Barath Dhanasekar,Kapil Kapilan",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/603/Romeo-Original-Motion-Picture-Soundtrack-Tamil-2024-20250905071143-500x500.jpg",
+      "songUrl": "Songs/sidu sidu.mp3"
+    },
+    {
+      "id": "4",
+      "title": "sang rahiyo",
+      "singer": "Jasleen Royal, Ranveer Allahbadia",
+      "genre": "Romantic",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733e4ba46c9324ef423f347c35",
+      "songUrl": "Songs/sang rahiyo.mp3"
+    },
+    {
+      "id": "5",
+      "title": "until i found you",
+      "singer": "Stephen Sanchez",
+      "genre": "Romantic",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTElgFBjqkK0IRhIOvtFwBoD24JCI-zFkcA8w&s",
+      "songUrl": "Songs/until i found you.mp3"
+    },
+    {
+      "id": "6",
+      "title": "ennadi maayavi nee",
+      "singer": " Vivek Velmurugan, Santhosh Narayanan, Sid Sriram",
+      "genre": "Romantic",
+      "imgUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHpGimwyQN5IcJDqYuTwcSinBczZ3MYTluUNHYAZL7rh4XSNKu6eNCQkXKYMS-uD4pCOKi2tstmUL13p_SD9OVr8aNpTWpPgcHqG3a2iMPB8T3wD7nBdWILyvyYldnqv4azgtKolIcNG-P/s0/ennadi+maayavi.jpeg",
+      "songUrl": "Songs/ennadi maayavi.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "id": "a271",
+      "itemId": "1",
+      "title": "uyirey",
+      "imgUrl": "https://s.saregama.tech/image/c/fw_485/0/15/54/uyirey_ott_1440_1730269069.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/uyirey.mp3",
+      "singer": "Nakul Abhyankar,Ramya Bhatt Abhyankar "
+    }
+  ],
+  "playlist": [
+    {
+      "id": "1",
+      "title": "uyirey",
+      "singer": "Nakul Abhyankar,Ramya Bhatt Abhyankar ",
+      "genre": "Romantic",
+      "imgUrl": "https://s.saregama.tech/image/c/fw_485/0/15/54/uyirey_ott_1440_1730269069.jpg",
+      "songUrl": "Songs/uyirey.mp3"
+    },
+    {
+      "id": "2",
+      "title": "pirai thedum",
+      "singer": "Saindhavi, G.V.Prakash Kumar",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/487/Mayakkam-Enna-Tamil-2011-500x500.jpg",
+      "songUrl": "Songs/pirai thedum.mp3"
+    }
+  ]
+}
